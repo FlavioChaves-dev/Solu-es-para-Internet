@@ -1,0 +1,33 @@
+<body>
+  <header>
+    <title>Portfólio Flavio Chaves</title>
+    <h1>Flávio Sousa de França Chaves</h1>
+    <img src="imagem.jpg" alt="Descrição da imagem">
+  </header>
+  <nav>
+    <ul>
+      <li>Início</li>
+      <p>Olá, sou o Flávio Chaves, aluno do 4ª periodo de Engenharia de Software, atualmente estagiando na ATI- Agência de Tecnologia do Tocantins
+        na area de analise de Requisitos, testes QA, e gerenciamento de projetos. 
+      </p>
+      <li>Sobre</li>
+      <p>Busco formação e atuação na área de Engenharia de Dados e IA- Inteligência Artficial. Sou uma pessoa louca por tecnoliga, games e motos.</p>
+      <li>Contato</li>
+      <p>email:flaviosfchaves@gmail.com<br> Whatsaap: (91) 9 8492-6934<BR><mark>LinkedIn:</mark> 
+        
+      </p>
+    </ul>
+  </nav>
+  <main>
+    <section>
+      <h2>Sobre mim</h2>
+      <p>Estudante de Engenharia de Software, apaixonado por tecnologia, games e motos.</p>
+      <p>Estou aprendendo a construir minhas primeiras páginas web.</p>
+      <p>Atualemente estagiando como Analista de Requisitos e Gerente de Projetos</p>
+    </section>
+  </main>
+  <aside><p>Curiosidade: já morei em 7 cidades diferentes!</p>
+    <ol>
+  <li>João Lisboa MA<li> Oeiras do Pará PA <li> Bagre PA<li> Curralinho PA<li> Amarante MA<li> Imperatriz MA<li> Palmas TO</body></aside></ol>
+  <footer><p>&copy; 2026 Flávio Chaves</p></footer>
+</body>
